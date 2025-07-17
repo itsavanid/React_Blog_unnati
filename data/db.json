@@ -1,0 +1,6 @@
+{
+  "blogs": [
+    { "title": "Blog one", "body": "Lorem ipsum", "id": 1 },
+    { "title": "Blog two", "body": "More ipsum", "id": 2 }
+  ]
+}
